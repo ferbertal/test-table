@@ -1,5 +1,6 @@
 <?php
 
+use app\models\User;
 use yii\db\Migration;
 
 /**
